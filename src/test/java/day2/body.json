@@ -1,0 +1,11 @@
+{
+      "id": "2",
+      "name": "Bob Johnson",
+      "location": "Los Angeles",
+      "phone": "987-654-3210",
+      "courses": [
+        "Biology",
+        "Chemistry",
+        "English"
+      ]
+    }
