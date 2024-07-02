@@ -24,5 +24,8 @@ public class PathAndQueryParaments {
 		.when().get("https://reqres.in/api/{mypath}")
 		.then().statusCode(200).log().all();
 
+		
 	}
+	
+	
 }
